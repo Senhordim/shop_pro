@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258951693498",
+    "firebase_url": "https://shop-pro-917a4.firebaseio.com",
+    "project_id": "shop-pro-917a4",
+    "storage_bucket": "shop-pro-917a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258951693498:android:53d245562ac600335aee83",
+        "android_client_info": {
+          "package_name": "br.com.trycode.shop_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258951693498-2u0ne8jvpalvce6tam6ocqe4jkk62rsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAynNcHPsnxAd8QVWgIQI0RSIIOvn_UeIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258951693498-2u0ne8jvpalvce6tam6ocqe4jkk62rsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
